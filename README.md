@@ -43,8 +43,8 @@ São vários projetos de vários niveis de dificuldade, onde você pode colocar 
     </thead>
     <tbody>
         <tr>
-            <td>07</td>
-            <td align="center"><a href="07"> Social Tree </a></td>
+            <td>01</td>
+            <td align="center"><a href="01"> Social Tree </a></td>
             <td align="center">21/02/2023</td>
             <td align="center">
             <a href="01"><img width="300px" src="assets\previewSocialTree.png" /></a></td>
